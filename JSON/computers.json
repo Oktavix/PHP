@@ -1,0 +1,24 @@
+{
+  "desktops": [
+    {
+      "motherboard": "Asus",
+      "cpu": 3.4,
+      "ram": 8,
+      "g_card": "NVIDIA GTX 650",
+      "storage": {
+        "hdd": 1024
+      }
+    },
+
+    {
+      "motherboard": "Gigabyte",
+      "cpu": 4.0,
+      "ram": 16,
+      "g_card": "NVIDIA GTX 1080",
+      "storage": {
+        "ssd": 256,
+        "hdd": 2096
+      }
+    }
+  ]
+}

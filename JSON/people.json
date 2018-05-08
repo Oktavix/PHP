@@ -1,0 +1,27 @@
+{
+  "people": [
+    {
+      "name": "Ashe",
+      "age": 16,
+      "height": 158
+    },
+
+    {
+      "name": "Brad",
+      "age": 18,
+      "height": 180
+    },
+
+    {
+      "name": "Chad",
+      "age": 19,
+      "height": 197
+    },
+
+    {
+      "name": "David",
+      "age": 17,
+      "height": 177
+    }
+  ]
+}
